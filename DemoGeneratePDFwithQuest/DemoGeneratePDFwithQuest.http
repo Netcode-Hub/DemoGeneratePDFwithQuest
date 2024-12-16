@@ -1,0 +1,6 @@
+@DemoGeneratePDFwithQuest_HostAddress = http://localhost:5027
+
+GET {{DemoGeneratePDFwithQuest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
